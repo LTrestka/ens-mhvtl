@@ -1,0 +1,14 @@
+{
+  "block_size": 1048576,
+  "fseq": 3,
+  "payload_blocks": 120,
+  "payload_mode": "sample",
+  "payload_padded": 125829120,
+  "payload_path": "/home/ltrestka/out/Enstore/FL1212_f3/fseq3_payload.bin",
+  "payload_sample_blocks": 3,
+  "payload_sample_bytes": 3145728,
+  "payload_size": 125176003,
+  "trailer_path": "/home/ltrestka/out/Enstore/FL1212_f3/fseq3_trailer.bin",
+  "vid": "FL1212",
+  "vol1_path": "/home/ltrestka/out/Enstore/FL1212_f3/vol1_FL1212.bin"
+}

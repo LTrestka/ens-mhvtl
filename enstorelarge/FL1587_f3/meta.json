@@ -1,0 +1,15 @@
+{
+  "block_size": 262144,
+  "fseq": 3,
+  "header_path": "/home/ltrestka/out/EnstoreLarge/FL1587_f3/fseq3_header.bin",
+  "payload_blocks": 159590,
+  "payload_mode": "sample",
+  "payload_padded": 41835560960,
+  "payload_path": "/home/ltrestka/out/EnstoreLarge/FL1587_f3/fseq3_payload.bin",
+  "payload_sample_blocks": 3,
+  "payload_sample_bytes": 786432,
+  "payload_size": 41835360256,
+  "trailer_path": "/home/ltrestka/out/EnstoreLarge/FL1587_f3/fseq3_trailer.bin",
+  "vid": "FL1587",
+  "vol1_path": "/home/ltrestka/out/EnstoreLarge/FL1587_f3/vol1_FL1587.bin"
+}
