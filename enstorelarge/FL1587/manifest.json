@@ -1,0 +1,16 @@
+{
+  "header_block_size": 80,
+  "payload_block_size": 262144,
+  "ordered_segments": [
+    "L1",
+    "L2",
+    "file1",
+    "file2"
+  ],
+  "segments": [
+    { "name": "L1", "bs": 80, "count": 1 },
+    { "name": "L2", "bs": 80, "count": 1 },
+    { "name": "file1", "bs": 262144, "count": 1 },
+    { "name": "file2", "bs": 262144, "count": 1 }
+  ]
+}
